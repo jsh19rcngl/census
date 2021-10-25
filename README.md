@@ -42,13 +42,12 @@ palitan nyo yung nasa config na `Projects/a-v2` -> `census` .
   tpos paste mo to.
   
  `class Profile extends Controller 
-    {
+  {
+     public function index()
+     {
 
-        public function index()
-        {
-
-        }
-    }`
+     }
+  }`
 
 after mo mapaste at ma save yan .. gawa ka ng view ..
 sa application/View
