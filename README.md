@@ -41,8 +41,7 @@ palitan nyo yung nasa config na `Projects/a-v2` -> `census` .
   sample gagawa ka ng profile page.. save mo ung file as Profile.php
   tpos paste mo to.
   
- `#<?php
-    class Profile extends Controller 
+ `class Profile extends Controller 
     {
 
         public function index()
