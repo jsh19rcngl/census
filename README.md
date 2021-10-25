@@ -41,15 +41,15 @@ palitan nyo yung nasa config na `Projects/a-v2` -> `census` .
   sample gagawa ka ng profile page.. save mo ung file as Profile.php
   tpos paste mo to.
   
- `<?php
-class Profile extends Controller 
-{
-    
-    public function index()
+ `#<?php
+    class Profile extends Controller 
     {
-        
-    }
-}`
+
+        public function index()
+        {
+
+        }
+    }`
 
 after mo mapaste at ma save yan .. gawa ka ng view ..
 sa application/View
