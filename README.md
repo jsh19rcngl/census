@@ -40,7 +40,8 @@ palitan nyo yung nasa config na `Projects/a-v2` -> `census` .
   pag gagawa ka ng file.. una gawa ka muna ng file sa application/controller
   sample gagawa ka ng profile page.. save mo ung file as Profile.php
   tpos paste mo to.
- <?php
+  
+ `<?php
 class Profile extends Controller 
 {
     
@@ -48,7 +49,7 @@ class Profile extends Controller
     {
         
     }
-}
+}`
 
 after mo mapaste at ma save yan .. gawa ka ng view ..
 sa application/View
